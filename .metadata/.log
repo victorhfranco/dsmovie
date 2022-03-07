@@ -268,3 +268,15 @@ Contains: Missing antlr:antlr:jar:javadoc:2.7.7
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-07 10:18:09.007
 !MESSAGE executing callback sts4.classpath.SEqVqTQq SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-07 15:54:59.263
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.SEqVqTQq
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-07 15:54:59.264
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.SEqVqTQq
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-07 15:54:59.264
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-07 15:54:59.265
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.SEqVqTQq => OK
