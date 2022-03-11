@@ -11,7 +11,13 @@
     <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.JpaRepository"/>
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="com.devsuperior.dsmovie.repositories.MovieRepository"/>
+    <fullyQualifiedTypeName name="com.devsuperior.dsmovie.dto.MovieDTO"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
     <fullyQualifiedTypeName name="org.springframework.data.domain.Pageable"/>
     <fullyQualifiedTypeName name="org.springframework.transaction.annotation.Transactional"/>
-    <fullyQualifiedTypeName name="com.devsuperior.dsmovie.dto.MovieDTO"/>
+    <fullyQualifiedTypeName name="com.devsuperior.dsmovie.entities.User"/>
+    <fullyQualifiedTypeName name="com.devsuperior.dsmovie.entities.Score"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="com.devsuperior.dsmovie.services.ScoreService"/>
 </qualifiedTypeNameHistroy>
