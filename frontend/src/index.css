@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
 
 :root {
-  --color-primary: #4D41C0;
+  --color-primary: #4143c0;
 }
 
 * {
@@ -10,7 +10,7 @@
 }
 
 html, body {
-    background-color: #E5E5E5;
+    background-color: rgba(0, 0, 0, 0.479);
 }
 
 a, a:hover {
